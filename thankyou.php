@@ -11,7 +11,7 @@
 <body>
 
 <?php
-include 'parts/header.php'
+include 'parts/nav.php';
 ?>
 
     <main>
